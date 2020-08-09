@@ -1,2 +1,2 @@
 # narou-recitation
-A tool to narrate the synopsis of the Nararou novel
+A tool for creating audio files that read narou novels
